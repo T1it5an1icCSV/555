@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище uvModelContainer" CdmEntityContainer="uvEntities">
+    <EntitySetMapping Name="cena_ukrash">
+      <EntityTypeMapping TypeName="uvModel.cena_ukrash">
+        <MappingFragment StoreEntitySet="cena_ukrash">
+          <ScalarProperty Name="id_cena_ukrash" ColumnName="id_cena_ukrash" />
+          <ScalarProperty Name="priceee" ColumnName="priceee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="drag_camni">
+      <EntityTypeMapping TypeName="uvModel.drag_camni">
+        <MappingFragment StoreEntitySet="drag_camni">
+          <ScalarProperty Name="id_camni" ColumnName="id_camni" />
+          <ScalarProperty Name="name_camni" ColumnName="name_camni" />
+          <ScalarProperty Name="mesto_dobich_id" ColumnName="mesto_dobich_id" />
+          <ScalarProperty Name="ochis_kamen" ColumnName="ochis_kamen" />
+          <ScalarProperty Name="camen_id" ColumnName="camen_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="info_cheak">
+      <EntityTypeMapping TypeName="uvModel.info_cheak">
+        <MappingFragment StoreEntitySet="info_cheak">
+          <ScalarProperty Name="id_cheka" ColumnName="id_cheka" />
+          <ScalarProperty Name="addess" ColumnName="addess" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="vrem" ColumnName="vrem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mesto_dobich">
+      <EntityTypeMapping TypeName="uvModel.mesto_dobich">
+        <MappingFragment StoreEntitySet="mesto_dobich">
+          <ScalarProperty Name="id_dobich" ColumnName="id_dobich" />
+          <ScalarProperty Name="mesto_dobich1" ColumnName="mesto_dobich" />
+          <ScalarProperty Name="country_id" ColumnName="country_id" />
+          <ScalarProperty Name="post_dost_id" ColumnName="post_dost_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ochish_camen">
+      <EntityTypeMapping TypeName="uvModel.ochish_camen">
+        <MappingFragment StoreEntitySet="ochish_camen">
+          <ScalarProperty Name="id_ochish" ColumnName="id_ochish" />
+          <ScalarProperty Name="ochish" ColumnName="ochish" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="polzovatel">
+      <EntityTypeMapping TypeName="uvModel.polzovatel">
+        <MappingFragment StoreEntitySet="polzovatel">
+          <ScalarProperty Name="id_pol" ColumnName="id_pol" />
+          <ScalarProperty Name="Loginn" ColumnName="Loginn" />
+          <ScalarProperty Name="passwordd" ColumnName="passwordd" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="postavchik">
+      <EntityTypeMapping TypeName="uvModel.postavchik">
+        <MappingFragment StoreEntitySet="postavchik">
+          <ScalarProperty Name="id_post" ColumnName="id_post" />
+          <ScalarProperty Name="name_post" ColumnName="name_post" />
+          <ScalarProperty Name="surname_post" ColumnName="surname_post" />
+          <ScalarProperty Name="otchestvo_post" ColumnName="otchestvo_post" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rolee">
+      <EntityTypeMapping TypeName="uvModel.rolee">
+        <MappingFragment StoreEntitySet="rolee">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="name_of_reole" ColumnName="name_of_reole" />
+          <ScalarProperty Name="uvel_id" ColumnName="uvel_id" />
+          <ScalarProperty Name="posttt_id" ColumnName="posttt_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="strana">
+      <EntityTypeMapping TypeName="uvModel.strana">
+        <MappingFragment StoreEntitySet="strana">
+          <ScalarProperty Name="id_country_name" ColumnName="id_country_name" />
+          <ScalarProperty Name="strana1" ColumnName="strana" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uveliri">
+      <EntityTypeMapping TypeName="uvModel.uveliri">
+        <MappingFragment StoreEntitySet="uveliri">
+          <ScalarProperty Name="id_uveliri" ColumnName="id_uveliri" />
+          <ScalarProperty Name="name_uveliri" ColumnName="name_uveliri" />
+          <ScalarProperty Name="surname_uvelriri" ColumnName="surname_uvelriri" />
+          <ScalarProperty Name="otchestvo_uvelri" ColumnName="otchestvo_uvelri" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cheak">
+      <EntityTypeMapping TypeName="uvModel.cheak">
+        <MappingFragment StoreEntitySet="cheak">
+          <ScalarProperty Name="pol_id" ColumnName="pol_id" />
+          <ScalarProperty Name="cheakkk_id" ColumnName="cheakkk_id" />
+          <ScalarProperty Name="tovar_id" ColumnName="tovar_id" />
+          <ScalarProperty Name="id_cheak" ColumnName="id_cheak" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

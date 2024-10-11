@@ -1,0 +1,14 @@
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\posled_practos.csproj.AssemblyReference.cache
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\kassaxaml.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\MainWindow.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\Mestadobich.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\NamePostxaml.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\ttt.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\Window1.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\Window2.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\Window3.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\Window_for_uvelira_1.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\App.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\posled_practos_Content.g.cs
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\posled_practos_MarkupCompile.cache
+C:\Users\Ringer\Desktop\долги Учебная практика\Practica555\posled_practos\obj\Debug\posled_practos_MarkupCompile.lref
